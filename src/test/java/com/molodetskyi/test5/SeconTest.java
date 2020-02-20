@@ -13,6 +13,7 @@ public class SeconTest {
   @Test
   public void f() {
 	  System.out.println("test2");
+	  System.out.println("test 2 changed");
 	  Assert.assertEquals(true, false);
 	    }
 }
