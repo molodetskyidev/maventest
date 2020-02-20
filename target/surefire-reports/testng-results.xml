@@ -2,18 +2,18 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="27" started-at="2020-02-20T13:58:30Z" finished-at="2020-02-20T13:58:30Z">
+  <suite name="Suite" duration-ms="29" started-at="2020-02-20T14:57:42Z" finished-at="2020-02-20T14:57:42Z">
     <groups>
     </groups>
-    <test name="Regression" duration-ms="27" started-at="2020-02-20T13:58:30Z" finished-at="2020-02-20T13:58:30Z">
+    <test name="Regression" duration-ms="29" started-at="2020-02-20T14:57:42Z" finished-at="2020-02-20T14:57:42Z">
       <class name="com.molodetskyi.test5.FirstTest">
-        <test-method status="PASS" signature="f()[pri:0, instance:com.molodetskyi.test5.FirstTest@54a097cc]" name="f" duration-ms="1" started-at="2020-02-20T15:58:30Z" finished-at="2020-02-20T15:58:30Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.molodetskyi.test5.FirstTest@54a097cc]" name="f" duration-ms="1" started-at="2020-02-20T16:57:42Z" finished-at="2020-02-20T16:57:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
       </class> <!-- com.molodetskyi.test5.FirstTest -->
       <class name="com.molodetskyi.test5.ThirdTest">
-        <test-method status="PASS" signature="f()[pri:0, instance:com.molodetskyi.test5.ThirdTest@3cbbc1e0]" name="f" duration-ms="4" started-at="2020-02-20T15:58:30Z" finished-at="2020-02-20T15:58:30Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.molodetskyi.test5.ThirdTest@3cbbc1e0]" name="f" duration-ms="5" started-at="2020-02-20T16:57:42Z" finished-at="2020-02-20T16:57:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
