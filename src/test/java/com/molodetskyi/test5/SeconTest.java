@@ -14,6 +14,7 @@ public class SeconTest {
   public void f() {
 	  System.out.println("test2");
 	  System.out.println("test 2 changed");
+	  System.out.println("test 2 changed2");
 	  Assert.assertEquals(true, false);
 	    }
 }

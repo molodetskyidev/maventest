@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="29" started-at="2020-02-20T14:57:42Z" finished-at="2020-02-20T14:57:42Z">
+  <suite name="Suite" duration-ms="36" started-at="2020-02-20T16:02:57Z" finished-at="2020-02-20T16:02:57Z">
     <groups>
     </groups>
-    <test name="Regression" duration-ms="29" started-at="2020-02-20T14:57:42Z" finished-at="2020-02-20T14:57:42Z">
+    <test name="Smoke" duration-ms="36" started-at="2020-02-20T16:02:57Z" finished-at="2020-02-20T16:02:57Z">
       <class name="com.molodetskyi.test5.FirstTest">
-        <test-method status="PASS" signature="f()[pri:0, instance:com.molodetskyi.test5.FirstTest@54a097cc]" name="f" duration-ms="1" started-at="2020-02-20T16:57:42Z" finished-at="2020-02-20T16:57:42Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.molodetskyi.test5.FirstTest@3cbbc1e0]" name="f" duration-ms="7" started-at="2020-02-20T18:02:57Z" finished-at="2020-02-20T18:02:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
       </class> <!-- com.molodetskyi.test5.FirstTest -->
-      <class name="com.molodetskyi.test5.ThirdTest">
-        <test-method status="PASS" signature="f()[pri:0, instance:com.molodetskyi.test5.ThirdTest@3cbbc1e0]" name="f" duration-ms="5" started-at="2020-02-20T16:57:42Z" finished-at="2020-02-20T16:57:42Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- f -->
-      </class> <!-- com.molodetskyi.test5.ThirdTest -->
-    </test> <!-- Regression -->
+    </test> <!-- Smoke -->
   </suite> <!-- Suite -->
 </testng-results>
